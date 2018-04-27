@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name"><b><i>Jackpot en Poy</i></b></string>
+    <string name="rock"><b><i>Rock</i></b></string>
+    <string name="scissors"><b><i></i></b>Scissors</string>
+    <string name="paper"><b><i>Paper</i></b></string>
+    <string name="you_lose"><b><i>You lose</i></b></string>
+    <string name="you_win"><b><i>You win</i></b></string>
+    <string name="you_win_two"><b><i>You win</i></b></string>
+    <string name="you_win_three"><b><i>You win</i></b></string>
+    <string name="draw"><b><i>draw</i></b></string>
+    <string name="draw_two"><b><i>draw</i></b></string>
+    <string name="draw_three"><b><i>draw</i></b></string>
+    <string name="you_lose_two"><b><i>You lose</i></b></string>
+    <string name="you_lose_three"><b><i>You lose</i></b></string>
+    <string name="challenge_one"><b><i>CHALLENGE: Kiss someone</i></b></string>
+    <string name="challenge_two"><b><i>CHALLENGE: Sass a stranger</i></b></string>
+    <string name="challenge_three"><b><i>CHALLENGE: Do the Chicken Dance</i></b></string>
+</resources>
